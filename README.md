@@ -1,4 +1,6 @@
 # swiftui-capsule-picker
+![CapsulePicker_AdobeExpress](https://github.com/poromaa/swiftui-capsule-picker/assets/5236460/71efdbb6-c890-4ac8-9950-ec31a52ad5d0)
+
 This was created based on this Stack overflow-thread. 
 Customizable Picker that imitate Apple original in feel.
 
